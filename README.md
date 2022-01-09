@@ -1,5 +1,5 @@
 # wizardry_fov2_zipsave
-Wizardry 5つの試練(steam版) セーブデータzip圧縮スクリプト
+Wizardry 5つの試練(steam版) セーブデータzip圧縮(バックアップ)スクリプト
 
 batファイルを実行してください。
 
